@@ -1,5 +1,9 @@
-# Ignore the data directory
-data/
-
-# Ignore .env file
 .env
+*.pkl
+*.bin
+*.pth
+*.pyd
+__pycache__/
+data/
+*.zip
+*.tar.gz
